@@ -5,12 +5,12 @@ html, body {
 }
 
   .center {
-    display: column;
+    display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    color: white;
+    color: black;
     gap: 15px;
   }
   h1 {
