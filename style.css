@@ -21,6 +21,8 @@ html, body {
     grid-template-columns: repeat(3, min(20vmin, 120px));
     grid-auto-rows: min(20vmin, 120px);
     gap: 10px;
+    justify-content: center;
+    align-item: center;
   }
   .cell {
     display: flex;
