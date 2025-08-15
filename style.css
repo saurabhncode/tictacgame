@@ -4,12 +4,11 @@ html, body {
   }
 
   .center {
-    display: flex;
+    display: column;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: none;
     color: white;
     gap: 15px;
   }
