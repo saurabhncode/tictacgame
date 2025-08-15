@@ -2,15 +2,7 @@ html, body {
     height: 100%;
     margin: 0;
   }
-body{
-    margin: 0;
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-image: url('wmremove-transformed.jpeg');
-  font-family: Arial, sans-serif;
-}
+
   .center {
     display: flex;
     flex-direction: column;
