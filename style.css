@@ -3,6 +3,8 @@ html, body {
     margin: 0;
   background-image: url('wmremove-transformed.jpeg');
   background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
 }
 
   .center {
