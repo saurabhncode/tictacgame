@@ -51,6 +51,7 @@ html, body {
     background: #3b82f6;
     color: white;
     cursor: pointer;
+    margin: 0 auto;
   }
 
   .board {
