@@ -24,7 +24,7 @@ html, body {
     gap: 10px;
   }
   .cell {
-    display: grid;
+    display: flex;
     place-items: center;
     font: 700 min(10vmin, 56px)/1 system-ui, sans-serif;
     background: #e5e7eb;
